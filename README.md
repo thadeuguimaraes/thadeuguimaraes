@@ -1,7 +1,4 @@
-![image](https://github.com/Thadeu84/Thadeu84/assets/52017205/a1d53877-7241-4705-b5a7-47e513e1f214)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thadeu84&color=blue" alt="Profile views" /> </p>
-
+![Primeira HQ do Superman](https://img.olhardigital.com.br/wp-content/uploads/2021/12/Superman-DC-divulgacao-e1639767407161.jpg)
 
 - 🔥 SRE (Site Reliability Engineering) apaixonado por café, tecnologias e ferramentas open source.
 - 🔭 I'm currently studying DevOps and SRE (Site Reliability Engineer)
@@ -52,24 +49,23 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <a href="https://github.com/thadeuguimaraes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thadeuguimaraes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thadeuguimaraes&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
 ## Contact
-
+ 
  <div>
-<a href="https://instagram.com/https://www.instagram.com/thadeu_guimaraes/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "marciothadeu198@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/thadeu-guimarães" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-   
+   <a href="https://www.linkedin.com/in/thadeu-guimar%C3%A3es/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   <a href="mailto:marciothadeu1984@gmail.com">
+  <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+<a href="https://www.instagram.com/thadeu_guimaraes/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ </div>
    
    🎶 Sound
   <div style="display: inline_block">
   <img aling="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
   <img aling="center" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />
-  
 </div>
