@@ -1,4 +1,4 @@
-Olá, meu nome é Thadeu, e eu sou um SRE, o "Superman" da Infraestrutura Global. Estou segurando o peso do mundo tecnológico enquanto Atlas (os DEVs) respira.🦸🏻‍♀️
+Olá, meu nome é Thadeu, e eu sou um SRE, o "Superman" da Infraestrutura Global. Estou segurando o peso do mundo tecnológico enquanto Atlas (os DEVs) respira."Superman #677," 🦸🏻‍♀️
 
 ![Primeira HQ do Superman](https://img.olhardigital.com.br/wp-content/uploads/2021/12/Superman-DC-divulgacao-e1639767407161.jpg)
 
