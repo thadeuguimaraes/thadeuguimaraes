@@ -39,6 +39,7 @@ Olá, meu nome é Thadeu, e eu sou um SRE, o "Superman" da Infraestrutura Global
   <img aling="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-" />
   <img aling="center" src="https://img.shields.io/badge/-DOCKER-05122A?style=flat&logo=DOCKER") />
   <img aling="center" src="https://img.shields.io/badge/-KUBERNETES-05122A?style=flat&logo=KUBERNETES") />
+    <img aling="center" src="https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=NGINX") />
   <img aling="center" src="https://img.shields.io/badge/-TERRAFORM-05122A?style=flat&logo=TERRAFORM") />
   <img aling="center" src="https://img.shields.io/badge/-ANSIBLE-05122A?style=flat&logo=ANSIBLE") />
   <img aling="center" src="https://img.shields.io/badge/-PROMETHEUS-05122A?style=flat&logo=PROMETHEUS") />
