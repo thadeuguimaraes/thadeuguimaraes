@@ -64,7 +64,6 @@ Olá, meu nome é Thadeu, e eu sou um DevOps | SRE, o "Superman" da Infraestrutu
    <a href="https://www.linkedin.com/in/thadeu-guimar%C3%A3es/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   <a href="mailto:marciothadeu1984@gmail.com">
   <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
-<a href="https://www.instagram.com/thadeu_guimaraes/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div>
    
    🎶 Sound
