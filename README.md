@@ -2,7 +2,7 @@ Olá, meu nome é Thadeu, e eu sou um DevOps | SRE, o "Superman" da Infraestrutu
 
 ![Primeira HQ do Superman](https://img.olhardigital.com.br/wp-content/uploads/2021/12/Superman-DC-divulgacao-e1639767407161.jpg)
 
-- 🔥 SRE (Site Reliability Engineering) apaixonado por café, tecnologias e ferramentas open source.
+- 🔥 DevOps | SRE (Site Reliability Engineering) apaixonado por café, tecnologias e ferramentas open source.
 - 🔭 I'm currently studying DevOps and SRE (Site Reliability Engineer)
 - 💬 Ask me about open source tools **SRE, Devops, Cloud, Linux **
 - 😄 Pronouns: He/Him
